@@ -52,3 +52,11 @@ p {
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
+
+.btn-1{
+    background-color: #a3f6f1;
+    background-image: radial-gradient(315deg, #a3f6f1 0%,
+    #dd0707 80%);
+    border:none;
+    z-index: 1;
+}
