@@ -67,4 +67,9 @@ p {
     border: none;
 }
 
+.btn-3 {
+    background-color: gold;
+    background-image:-moz-repeating-linear-gradient(270deg, #dad 30%
+    #dfe 90%);
+    border: none;
 }
