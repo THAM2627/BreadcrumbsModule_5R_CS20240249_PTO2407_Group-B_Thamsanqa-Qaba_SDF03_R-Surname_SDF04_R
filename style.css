@@ -60,3 +60,10 @@ p {
     border:none;
     z-index: 1;
 }
+.btn-2 {
+background-color: #a3f6f1;
+background-image: repeating-linear-gradient(360deg, #a3f6f1 20%
+#dd0707 80%);
+border:none;
+z-index: 2;
+}
